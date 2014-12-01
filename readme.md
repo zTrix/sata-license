@@ -1,7 +1,7 @@
 
 # The Star And Thank Author License (SATA License)
 
-This is a novol new idea to make license social and fun.
+This is a novel new idea to make license social and fun.
 
 The basic idea is, whenever using a project using SATA license, people shall star/like/+1 that project and thank the author. Just imagine Google stared your project and send you a thank-you letter because they used your project in github!
 
