@@ -1,8 +1,9 @@
 The Star And Thank Author License (SATA)
 
-Copyright © 2014 zTrix(i@ztrix.me)
+Copyright © 2014 zTrix(i@ztrix.me) kongtianyi(kongtianyi@foxmail.com)
 
 Project Url: https://github.com/zTrix/sata-license
+             https://github.com/kongtianyi/sata-license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
