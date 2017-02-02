@@ -17,7 +17,7 @@ http://blog.ztrix.me/blog/2014/03/29/star-and-thank-author-license/
 
 ## License
 
-Notice that this [SATA-License](https://github.com/zTrix/sata-license) project is also using [SATA license](LICENSE.txt) (self-referencing, recusive, cool?), which means to use SATA license, you have to star this project.
+Notice that this [SATA-License](https://github.com/zTrix/sata-license) project is also using [SATA license](LICENSE.txt) (self-referencing, recursive, cool?), which means to use SATA license, you have to star this project.
 
 ## List of Projects using SATA License
 
