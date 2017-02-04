@@ -15,6 +15,10 @@ I've written a blog post about [Star And Thank Author License](LICENSE-template.
 
 http://blog.ztrix.me/blog/2014/03/29/star-and-thank-author-license/
 
+一篇中文介绍(by [kongtianyi](https://github.com/kongtianyi))：
+
+http://kongtianyi.cn/2017/02/02/lisence/SATA-License/
+
 ## License
 
 Notice that this [SATA-License](https://github.com/zTrix/sata-license) project is also using [SATA license](LICENSE.txt) (self-referencing, recursive, cool?), which means to use SATA license, you have to star this project.
