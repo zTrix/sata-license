@@ -1,6 +1,6 @@
 The Star And Thank Author License (SATA)
 
-Copyright (c) <Year> <Author>(email)
+Copyright © <Year> <Author>(email)
 
 Project Url: project url list
 
