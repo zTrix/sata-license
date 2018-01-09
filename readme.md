@@ -17,7 +17,7 @@ http://blog.ztrix.me/blog/2014/03/29/star-and-thank-author-license/
 
 一篇中文介绍(by [kongtianyi](https://github.com/kongtianyi))：
 
-http://kongtianyi.cn/2017/02/02/lisence/SATA-License/
+http://blog.csdn.net/qq_30242609/article/details/54835687
 
 ## License
 
