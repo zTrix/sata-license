@@ -1,4 +1,5 @@
-The Star And Thank Author License (SATA)
+            The Star And Thank Author License (SATA)
+                    Version 2.0, April 2021
 
 Copyright © 2014 zTrix(i@ztrix.me) kongtianyi(kongtianyi@foxmail.com)
 
@@ -13,10 +14,10 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software. 
+all copies or substantial portions of the Software.
 
-And wait, the most important, you shall star/+1/like the project(s) in project url 
-section above first, and then thank the author(s) in Copyright section. 
+And wait, the most important, you should star/+1/like the project(s) in project url
+section above first, and then thank the author(s) in Copyright section.
 
 Here are some suggested ways:
 
@@ -25,8 +26,8 @@ Here are some suggested ways:
  - Tell friends what a wonderful project this is.
  - And, sure, you can just express thanks in your mind without telling the world.
 
-Contributors of this project by forking have the option to add his/her name and 
-forked project url at copyright and project url sections, but shall not delete 
+Contributors of this project by forking have the option to add his/her name and
+forked project url at copyright and project url sections, but shall not delete
 or modify anything else in these two sections.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
