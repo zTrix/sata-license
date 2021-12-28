@@ -1,5 +1,5 @@
             The Star And Thank Author License (SATA)
-                    Version 2.0, April 2021
+                    Version 2.1, Dec 2021
 
 Copyright © 2014 zTrix(i@ztrix.me) kongtianyi(kongtianyi@foxmail.com)
 
@@ -16,13 +16,15 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-And wait, the most important, you should star/+1/like the project(s) in project url
+And wait, if you want, you'd better star/+1/like the project(s) in project url
 section above first, and then thank the author(s) in Copyright section.
+Of course, if you don't want or can't star/+1/like the project (s), it's OK not to star/+1/ like the project (s).
 
 Here are some suggested ways:
 
  - Email the authors a thank-you letter, and make friends with him/her/them.
  - Report bugs or issues.
+ - Help the author promote the project.
  - Tell friends what a wonderful project this is.
  - And, sure, you can just express thanks in your mind without telling the world.
 
