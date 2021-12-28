@@ -1,5 +1,5 @@
             The Star And Thank Author License (SATA)
-                    Version 2.0, April 2021
+                    Version 2.1, Dec 2021
 
 Copyright © <Year> <Author>(email)
 
@@ -21,6 +21,7 @@ section above first, and then thank the author(s) in Copyright section.
 Here are some suggested ways:
 
  - Email the authors a thank-you letter, and make friends with him/her/them.
+ - Help the author promote the project.
  - Report bugs or issues.
  - Tell friends what a wonderful project this is.
  - And, sure, you can just express thanks in your mind without telling the world.
